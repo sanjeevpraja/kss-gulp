@@ -1,0 +1,13 @@
+body {
+  color: #eee;
+}
+.button.star {
+  background: red;
+  height: 30px;
+  padding: 30px;
+}
+.button.star:hover {
+  background: blue;
+  height: 30px;
+  padding: 30px;
+}
